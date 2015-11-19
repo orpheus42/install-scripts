@@ -2,19 +2,19 @@
 PATH=/bin:/usr/bin:
 
 #################################################
-#						#
-#  Install script for PHP Dev environment	#
-#						#
-#  v1						#
-#						#
-#  Ubuntu Trusty				#
-#  Nginx					#
-#  PostgreSQL & MariaDB				#
-#  PHP 5.6					#
-#  Node.js, Bower, Yo, Grunt, Gulp		#
-#						#
-#  See comments for more details		#
-#						#
+#
+#  Install script for PHP Dev environment
+#
+#  v1.0
+#
+#  Ubuntu Trusty
+#  Nginx
+#  PostgreSQL & MariaDB
+#  PHP 5.6
+#  Node.js, Bower, Yo, Grunt, Gulp
+#
+#  See comments for more details
+#
 #################################################
 
 # set up some colors for output
