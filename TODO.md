@@ -1,6 +1,4 @@
 # TODO list for orpheus42/install-scripts
+## PHP-Dev branch
 
-- Add RoR dev config
-- Add prod config for PHP
-- Add nginx-hhvm-postgres dev config
-- Add full stack JS dev config
+- install testing packages & configure
